@@ -17,6 +17,11 @@ I'm Marc, a student at 42 Lyon Auvergne-Rhône-Alpes. [Here](https://github.com/
 - [marc-mosca/netpractice](https://github.com/marc-mosca/netpractice) - Introduction to networking
 - [marc-mosca/connect_four](https://github.com/marc-mosca/connect_four) - The game of "Puissance 4" running in terminal
 
+#### ❤️ My favourite projects
+
+- [marc-mosca/cub3d](https://github.com/marc-mosca/cub3d) - My first raycasting project
+- [marc-mosca/connect_four](https://github.com/marc-mosca/connect_four) - The game of "Puissance 4" running in terminal
+
 #### 📫 How to reach me
 
 - Linkedin : [https://www.linkedin.com/in/marc-mosca](https://www.linkedin.com/in/marc-mosca-59b2b7204/)
