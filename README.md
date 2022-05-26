@@ -2,7 +2,7 @@
 
 I'm Marc, a student at 42 Lyon Auvergne-Rhône-Alpes. [Here](https://github.com/marc-mosca?tab=repositories), we can find all my projects, so if you are curious about what I've been working on recently, check my [repositories](https://github.com/marc-mosca?tab=repositories).
 
-#### 👷 My 42 intranet profile
+#### 📌 My 42 intranet profile
 
 [![mmosca's 42 stats](https://badge42.vercel.app/api/v2/cl3lsol53000609k1o0ekv2hz/stats?cursusId=21&coalitionId=49)](https://github.com/JaeSeoKim/badge42)
 
