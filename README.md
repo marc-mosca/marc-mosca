@@ -9,18 +9,15 @@ I'm Marc, a student at 42 Lyon Auvergne-Rhône-Alpes. [Here](https://github.com/
 #### 👷 Check out what I'm currently working on
 
 - [marc-mosca/inception](https://github.com/marc-mosca/inception) - Introduction to Docker
-- [marc-mosca/libft](https://github.com/marc-mosca/libft) - Personal C library
 
 #### 🌱 My latest projects
 
 - [marc-mosca/debugger](https://github.com/marc-mosca/debugger) - Small macro for debugging your code in C/C++
-- [marc-mosca/netpractice](https://github.com/marc-mosca/netpractice) - Introduction to networking
-- [marc-mosca/connect_four](https://github.com/marc-mosca/connect_four) - The game of "Puissance 4" running in terminal
+- [marc-mosca/libft](https://github.com/marc-mosca/libft) - Personal C library
 
 #### ❤️ My favourite projects
 
 - [marc-mosca/cub3d](https://github.com/marc-mosca/cub3d) - My first raycasting project
-- [marc-mosca/connect_four](https://github.com/marc-mosca/connect_four) - The game of "Puissance 4" running in terminal
 
 #### 📫 How to reach me
 
