@@ -28,6 +28,7 @@ I'm Marc, a student at [42 Lyon Auvergne-Rhône-Alpes](https://42lyon.fr). I am 
 ### 🌱 · My latest projects
 
 - [marc-mosca/web-server](https://github.com/marc-mosca/web-server.git) - Ssh server and web-server automatic installation.
+- [marc-mosca/pushinator](https://github.com/marc-mosca/pushinator.git) - Automation of git add, commit and push process.
 
 ### ❤️ · My favourite projects
 
