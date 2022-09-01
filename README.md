@@ -23,18 +23,19 @@ I'm Marc, a student at [42 Lyon Auvergne-Rhône-Alpes](https://42lyon.fr). I am 
 
 ### 👷 · Check out what I'm currently working on
 
+- [marc-mosca/mkrepo](https://github.com/marc-mosca/mkrepo.git) - Automatic creation of C/C++ repository.
 - [marc-mosca/printf](https://github.com/marc-mosca/printf.git) - Re-coding printf and dprintf c function.
-- [marc-mosca/web-server](https://github.com/marc-mosca/web-server.git) - Ssh server and web-server automatic installation.
 
 ### 🌱 · My latest projects
 
+- [marc-mosca/mkrepo](https://github.com/marc-mosca/mkrepo.git) - Automatic creation of C/C++ repository.
 - [marc-mosca/libft](https://github.com/marc-mosca/libft.git) - Re-coding libc functions and other utils functions.
 - [marc-mosca/web-server](https://github.com/marc-mosca/web-server.git) - Ssh server and web-server automatic installation.
-- [marc-mosca/pushinator](https://github.com/marc-mosca/pushinator.git) - Automation of git add, commit and push process.
 
 ### ❤️ · My favourite projects
 
 - [marc-mosca/web-server](https://github.com/marc-mosca/web-server.git) - Ssh server and web-server automatic installation.
+- [marc-mosca/mkrepo](https://github.com/marc-mosca/mkrepo.git) - Automatic creation of C/C++ repository.
 
 ### 👤 · Contributor
 
