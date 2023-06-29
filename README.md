@@ -14,5 +14,5 @@ I'm huge fan of reggaeton music and manga world.
 
 - Personal site: [https://marcmosca.fr/](https://marcmosca.fr/)
 - Linkedin: [https://fr.linkedin.com/in/marc-mosca-59b2b7204](https://fr.linkedin.com/in/marc-mosca-59b2b7204)
-- Discord: [https://discord.com/users/303555381777399808](https://discord.com/users/303555381777399808)
+- Discord: marc_mosca
 - Email: contact@marcmosca.fr
