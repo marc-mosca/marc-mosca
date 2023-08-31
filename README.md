@@ -1,18 +1,13 @@
 # Marc Mosca -- @marc-mosca
 
-Hi, I'm Marc!
+**Hi, I'm Marc!**
 
-Right now, I am a student at 42 Lyon Auvergne-Rhône-Alpes, mainly accessing low-level development. 
-I am interested in iOS development and DevOps.
-I'm huge fan of reggaeton music and manga world.
+I'm a student at 42 Lyon Auvergne-Rhône-Alpes.
+I'm an iOS developer enthusiast.
 
-## My 42 intranet profile 📌
-
-[![mmosca's 42 stats](https://badge42.vercel.app/api/v2/cl3lsol53000609k1o0ekv2hz/stats?cursusId=21&coalitionId=304)](https://github.com/JaeSeoKim/badge42)
+I'm currently learn iOS development.
 
 ## Get in touch 📫
 
 - Personal site: [https://marcmosca.fr/](https://marcmosca.fr/)
 - Linkedin: [https://fr.linkedin.com/in/marc-mosca-59b2b7204](https://fr.linkedin.com/in/marc-mosca-59b2b7204)
-- Discord: marc_mosca
-- Email: contact@marcmosca.fr
