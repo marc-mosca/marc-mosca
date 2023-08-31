@@ -2,10 +2,9 @@
 
 **Hi, I'm Marc!**
 
-I'm a student at 42 Lyon Auvergne-Rhône-Alpes.
-I'm an iOS developer enthusiast.
+I'm a student at 42 Lyon Auvergne-Rhône-Alpes and I'm an iOS developer enthusiast.
 
-I'm currently learn iOS development.
+> I'm currently learn iOS development.
 
 ## Get in touch 📫
 
