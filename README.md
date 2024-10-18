@@ -1,7 +1,5 @@
 # Marc Mosca -- @marc-mosca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
----
-
 ```text
 OS: Mac OS
 Uptime: 21 years
