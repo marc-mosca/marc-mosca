@@ -1,12 +1,19 @@
-# Marc Mosca -- @marc-mosca
+# Marc Mosca -- @marc-mosca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-**Hi, I'm Marc!**
+---
 
-I'm a student at 42 Lyon Auvergne-Rhône-Alpes and I'm an iOS developer enthusiast.
+```text
+OS: Mac OS
+Uptime: 21 years
+IDE: Xcode, Clion 2024.2.2, Webstorm 2024.2.3, PyCharm 2024.2.3
 
-> I'm currently learn iOS development.
+Languages.Programming: Swift, Javascript, Typescript, C, C++, SQL
+Languages.Computer: HTML, CSS, JSON, Markdown, Docker, Git
+Languages.Real: French, English
 
-## Get in touch 📫
+Contact.Email: mmosca@student.42lyon.fr
+Contact.LinkedIn: Marc Mosca
+Contact.Discord:  marc.mosca
+```
 
-- Personal site: [https://marcmosca.fr/](https://marcmosca.fr/)
-- Linkedin: [https://fr.linkedin.com/in/marc-mosca-59b2b7204](https://fr.linkedin.com/in/marc-mosca-59b2b7204)
+<p align=center> <sub> Created while eating 🍿 by Marc MOSCA&nbsp;&nbsp;&nbsp;©2024</sub></p>
