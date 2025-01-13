@@ -3,9 +3,9 @@
 ```text
 OS: Mac OS
 Uptime: 21 years
-IDE: Xcode, Clion 2024.2.2, Webstorm 2024.2.3, PyCharm 2024.2.3
+IDE: Xcode, CLion, PhpStorm
 
-Languages.Programming: Swift, Javascript, Typescript, C, C++, SQL
+Languages.Programming: Swift, PHP, Typescript, C, C++, SQL
 Languages.Computer: HTML, CSS, JSON, Markdown, Docker, Git
 Languages.Real: French, English
 
@@ -14,4 +14,4 @@ Contact.LinkedIn: Marc Mosca
 Contact.Discord:  marc.mosca
 ```
 
-<p align=center> <sub> Created while eating 🍿 by Marc MOSCA&nbsp;&nbsp;&nbsp;©2024</sub></p>
+<p align=center> <sub>Developed by Marc MOSCA, with a bucket of 🍿</sub></p>
