@@ -1,17 +1,5 @@
-# Marc Mosca -- @marc-mosca <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# Hi there 👋
 
-```text
-OS: Mac OS
-Uptime: 21 years
-IDE: Xcode, CLion, PhpStorm
-
-Languages.Programming: Swift, PHP, Typescript, C, C++, SQL
-Languages.Computer: HTML, CSS, JSON, Markdown, Docker, Git
-Languages.Real: French, English
-
-Contact.Email: mmosca@student.42lyon.fr
-Contact.LinkedIn: Marc Mosca
-Contact.Discord:  marc.mosca
-```
-
-<p align=center> <sub>Developed by Marc MOSCA, with a bucket of 🍿</sub></p>
+- 🔭 I'm currently working on building website and refactor school project.
+- 🌱 I'm currently learning PHP with help from the [documentation](https://www.php.net/docs.php).
+- 💬 Don't be afraid to contact me if you'd like to talk about development!
