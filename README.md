@@ -1,5 +1,5 @@
-# Hi there 👋
+# Salutations ! 👋
 
-- 🔭 I'm currently working on building website and refactor school project.
-- 🌱 I'm currently learning PHP with help from the [documentation](https://www.php.net/docs.php).
-- 💬 Don't be afraid to contact me if you'd like to talk about development!
+- 🔭 Je travaille actuellement sur la création de sites web et la refonte d'un projet scolaire.
+- 🌱 J'apprends actuellement le langage PHP à l'aide de la [documentation](https://www.php.net/docs.php).
+- 💬 N'hésitez pas à me contacter si vous souhaitez discuter de développement !
